@@ -305,6 +305,16 @@ export function UserDashBoard() {
         <div className="row g-4">
           <div className="col-md-3">
             <div className="card border-0 shadow-lg rounded-4 text-center p-4 h-100">
+              <div className="display-3">💰</div>
+              <h5 className="mt-3 fw-bold">Best Price</h5>
+              <p className="text-muted">
+                Find the best travel deals at affordable prices.
+              </p>
+            </div>
+          </div>
+
+          <div className="col-md-3">
+            <div className="card border-0 shadow-lg rounded-4 text-center p-4 h-100">
               <div className="display-3">🛡️</div>
               <h5 className="mt-3 fw-bold">Safe Booking</h5>
               <p className="text-muted">
