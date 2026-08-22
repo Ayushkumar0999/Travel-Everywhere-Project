@@ -1,12 +1,12 @@
-## 🌍 Travel-Everywhere-Project
+# 🌍 Travel-Everywhere-Project
 
 Travel-Everywhere is a full-stack travel web application built using the MERN Stack. The platform allows users to explore travel destinations, manage their trips, and maintain their profile through a user-friendly and responsive interface.
 
 The project is designed to provide a complete travel management experience by combining modern frontend technologies with a RESTful backend and MongoDB database.
 
-# 🚀 Features
+## 🚀 Features
 
-# 👤 User Features
+## 👤 User Features
 User Registration & Login
 Secure authentication using JWT
 User Dashboard
@@ -18,7 +18,7 @@ My Trips section
 Logout functionality
 Cookie-based user session handling
 
-# 🗺️ Travel Features
+## 🗺️ Travel Features
 Browse different travel destinations
 Destination categories
 Destination information
@@ -26,14 +26,14 @@ Trip management
 Organized travel data
 Responsive travel interface
 
-# 🔐 Authentication & Security
+## 🔐 Authentication & Security
 JWT-based authentication
 Protected routes
 Password-based user authentication
 Cookie-based user identification
 Backend API validation
 
-# 🏗️ Project Architecture
+## 🏗️ Project Architecture
 Travel-Everywhere
 │
 ├── Frontend
@@ -56,27 +56,27 @@ Travel-Everywhere
     ├── Destinations
     └── Trips
     
-# 🏠 Home
+## 🏠 Home
 
 Provides an attractive landing page with travel-related information and navigation to different sections of the application.
 
-# 🌎 Destinations
+## 🌎 Destinations
 
 Users can explore available travel destinations and get information about different places.
 
-# 🧳 My Trips
+## 🧳 My Trips
 
 Users can manage their planned trips and keep their travel information organized.
 
-# 👤 Profile
+## 👤 Profile
 
 Users can view and manage their account information.
 
-# 🔑 Authentication
+## 🔑 Authentication
 
 The application provides secure user authentication using JWT and protected routes.
 
-# 🔌 REST API
+## 🔌 REST API
 
 The backend provides RESTful APIs for communication between the frontend and MongoDB database.
 
@@ -90,7 +90,7 @@ POST	/register	Register a new user
 
 API endpoints can be extended as new features are added to the application.
 
-# 🗄️ Database
+## 🗄️ Database
 
 The application uses MongoDB to store application data.
 
@@ -105,7 +105,7 @@ Database: travel-project
 MongoDB provides flexible and scalable data storage for users, travel destinations, categories, and trip information.
 
 
-# While developing Travel-Everywhere, I worked with:
+## While developing Travel-Everywhere, I worked with:
 
 Building a complete MERN Stack application
 React component-based architecture
@@ -120,7 +120,7 @@ Frontend-backend communication
 Git and GitHub workflow
 Debugging and handling application errors
 
-# 🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 ✈️ Flight and hotel booking integration
 💳 Online payment integration
@@ -133,7 +133,7 @@ Debugging and handling application errors
 📱 Improved mobile responsiveness
 👨‍💼 Complete Admin Dashboard
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ├── home.png
 ├── login.png
@@ -145,20 +145,20 @@ Debugging and handling application errors
 Example:
 ![Home Page](./screenshots/home.png)
 
-# 👨‍💻 Developer
+## 👨‍💻 Developer
 
 Ayush Kumar
 
 MERN Full Stack Developer | AI Integration
 
-# Skills
+## Skills
 
 React.js TypeScript JavaScript Node.js Express.js MongoDB REST API JWT Git GitHub
 
-⭐ Support
+## ⭐ Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
-📄 License
+## 📄 License
 
 This project is created for learning, development, and portfolio purposes.
